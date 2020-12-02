@@ -1,5 +1,5 @@
 
-![randomSong](https://spotify-randomizer-backend.herokuapp.com/github)
+<a herf=https://spotify-randomizer-backend.herokuapp.com/github > <img src=https://spotify-randomizer-backend.herokuapp.com/github /> </a>
 
 - 🔭 I’m currently working on ... VoidOrigin.com
 - 🌱 I’m currently learning ... GraphQL"
