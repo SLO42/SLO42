@@ -1,5 +1,5 @@
 
-<a href=https://spotify-randomizer-backend.herokuapp.com/github><img src=https://spotify-randomizer-backend.herokuapp.com/github width="100%" height="100%"/>
+<img src=https://spotify-randomizer-backend.herokuapp.com/github width="100%" height="100%"/>
 
 - 🔭 I’m currently working on ... VoidOrigin.com
 - 🌱 I’m currently learning ... GraphQL"
