@@ -1,7 +1,7 @@
 
-![randomSong](https://spotify-randomizer-backend.herokuapp.com/random)
+![randomSong](https://spotify-randomizer-backend.herokuapp.com/github)
 
-- 🔭 I’m currently working on ... VoidOrigin.com
+- 🔭 I’m currently working on ... spotify-randomizer-backend.herokuapp.com
 - 🌱 I’m currently learning ... GraphQL"
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ...  Shopify API
