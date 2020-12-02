@@ -1,6 +1,8 @@
 
+<a href=https://spotify-randomizer-backend.herokuapp.com/github><img src=https://spotify-randomizer-backend.herokuapp.com/github width="100%" height="100%"/>
+
 - 🔭 I’m currently working on ... VoidOrigin.com
-- 🌱 I’m currently learning ... GraphQL
+- 🌱 I’m currently learning ... GraphQL"
 - 👯 I’m looking to collaborate on ... React
 - 🤔 I’m looking for help with ...  Shopify API
 - 💬 Ask me about ... C programming
