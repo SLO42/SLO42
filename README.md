@@ -1,8 +1,9 @@
 ### Hi there 👋
-Click the song to view its source and listen on spotify!
-![song](https://spotify-randomizer-backend.herokuapp.com/markdown)
+Fun projects to show off|
+--------|
+[Spotify Song Randomizer:](https://spotify-randomizer-backend.herokuapp.com/markdown)  ![randomSong](https://spotify-randomizer-backend.herokuapp.com/markdown) 
+| Click the song to view its source and listen on spotify! Feel free to refresh the page for a new song! [@settleformore](https://github.com/settleformore) for the idea and letting me join you for this project
 
-Feel free to refresh the page for a new song!
 
 <!--
 **SLO42/SLO42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
