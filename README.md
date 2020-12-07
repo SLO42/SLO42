@@ -1,8 +1,8 @@
 ### Hi there 👋
 Fun projects to show off|
 --------|
-[Spotify Song Randomizer:](https://spotify-randomizer-backend.herokuapp.com/markdown) Example: ![randomSong](https://spotify-randomizer-backend.herokuapp.com/markdown) 
-| Click the song to view its source and generate a new song to listen on spotify! Feel free to refresh the page for a new song! [@settleformore](https://github.com/settleformore) for the idea and letting me join you for this project
+<a href="https://randify-backend.herokuapp.com/" target="_blank">Randify </a> Example: ![randomSong](https://randify-backend.herokuapp.com/markdown) 
+| Randify is a random song generator for those looking for a little random in their music choice. Click the song to view its source and generate a new song to listen on spotify! Feel free to refresh the page for a new song! Thank you [@settleformore](https://github.com/settleformore) for the idea and letting me join you for this project
 
 
 <!--
