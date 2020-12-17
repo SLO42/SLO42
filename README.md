@@ -11,7 +11,7 @@ Fun projects to show off|
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... [Randify-backend](https://github.com/SLO42/Randofy-backend)
+- 🔭 I’m currently working on ... [Randofy-backend](https://github.com/SLO42/Randofy-backend)
 - 🌱 I’m currently learning ... Spotify Web Api
 - 👯 I’m looking to collaborate on ... Next.js
 - 🤔 I’m looking for help with ... Getting a job
