@@ -11,12 +11,12 @@ Fun projects to show off|
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... [Randofy-backend](https://github.com/SLO42/Randofy-backend)
-- 🌱 I’m currently learning ... Spotify Web Api
-- 👯 I’m looking to collaborate on ... Next.js
-- 🤔 I’m looking for help with ... Getting a job
-- 💬 Ask me about ... Node / React
-- 📫 How to reach me: ... linkedIn
+- 🔭 I’m currently working on ... AssetDash
+- 🌱 I’m currently learning ... TypeScript
+- 👯 I’m looking to collaborate on ... Anything fullstack
+- 🤔 I’m looking for help with ... Becoming a mentor
+- 💬 Ask me about ... Node / React / Fullstack Development
+- 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/samolive/) 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love working with react and making full stack applications
 
