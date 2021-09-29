@@ -11,7 +11,7 @@ Fun projects to show off|
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... AssetDash
+- 🔭 I’m currently working on ... AssetDash and a Secret 😉
 - 🌱 I’m currently learning ... TypeScript
 - 👯 I’m looking to collaborate on ... Anything fullstack
 - 🤔 I’m looking for help with ... Becoming a mentor
