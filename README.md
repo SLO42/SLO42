@@ -11,12 +11,13 @@ Fun projects to show off|
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... AssetDash and a Secret 😉
-- 🌱 I’m currently learning ... TypeScript
-- 👯 I’m looking to collaborate on ... Anything fullstack
-- 🤔 I’m looking for help with ... Becoming a mentor
+- 🔭 I’m currently working on ... Looking for work 😉
+- 🌱 I’m currently learning ... Advanced React
+- 👯 I’m looking to collaborate on ... React idle creation
+- 🤔 I’m looking for help with ... Getting good
 - 💬 Ask me about ... Node / React / Fullstack Development
 - 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/samolive/) 
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I love working with react and making full stack applications
 
+pssst, I Freelance... slide through.
