@@ -11,10 +11,10 @@ Fun projects to show off|
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... Looking for work 😉
-- 🌱 I’m currently learning ... Advanced React
+- 🔭 I’m currently working on ... #100DaysOfCode
+- 🌱 I’m currently learning ... WebSockets
 - 👯 I’m looking to collaborate on ... React idle creation
-- 🤔 I’m looking for help with ... Getting good
+- 🤔 I’m looking for help with ... Advanced WebSocket usage 
 - 💬 Ask me about ... Node / React / Fullstack Development
 - 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/samolive/) 
 - 😄 Pronouns: ... he/him
