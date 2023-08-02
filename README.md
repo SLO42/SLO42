@@ -14,12 +14,8 @@ Fun projects to show off|
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ... #100DaysOfCode
-- 🌱 I’m currently learning ... Web3
-- 👯 I’m looking to collaborate on ... Blockchain Dapps
-- 🤔 I’m looking for help with ... Smart Contract complexity
+- 🔭 I’m currently working on ... NestJs and Angular
+- 🌱 I’m currently learning ... Stable Diffusion and Python
 - 💬 Ask me about ... [MERN](https://letmegooglethat.com/?q=MERN+stack) Stack Development
-- 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/samolive/) (Twitter)(https://twitter.com/11sosam11)
+- 📫 How to reach me: ... [linkedIn](https://www.linkedin.com/in/samolive/)
 - 😄 Pronouns: ... he/him
-
-pssst, I Freelance... slide through.
